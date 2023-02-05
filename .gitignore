@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+
+# Build artifacts
+dist
+.DS_Store
+
+# Local files
+*.local
