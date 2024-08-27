@@ -6,7 +6,7 @@ const Header: React.FC = () => {
     return (
         <Root>
             <Container>
-                <Logo />
+                <Logo size={18} />
                 <SocialNav />
             </Container>
             
